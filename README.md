@@ -267,6 +267,7 @@ streamlit run app.py
 👨‍💻 Author
 
 KOUSIK VARMA GATTUPALLI
+
 Artificial Intelligence & Machine Learning Student
 
 Built as a portfolio project to demonstrate:
