@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.env
+
+data/uploads/
+data/extracted_images/
+data/vector_store/faiss.index
+data/chat_history.json
+
+*.pyc
