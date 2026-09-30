@@ -77,6 +77,9 @@ Gemini 2.5 Flash
 Generated Answer
 ```
 
+<img width="887" height="974" alt="image" src="https://github.com/user-attachments/assets/1c5f5db9-f8a3-416c-aabf-aa48b7563b58" />
+
+
 ---
 
 # 📁 Project Structure
